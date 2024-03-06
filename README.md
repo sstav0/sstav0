@@ -1,7 +1,7 @@
 ![Profile Image](profileImg.jpg)
 
 
-I've been on GitHub for 1 years and during this time, I've made 132 commits across 7 repositories.
+I've been on GitHub for 1 years and during this time, I've made 134 commits across 7 repositories.
 
 ## My Passions and Skills
 
@@ -17,10 +17,10 @@ Feel free to explore these projects to learn more about my work!
 
 Here's a breakdown of the programming languages I use in my repositories:
 
-![C#](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B151.6%25)
-![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B134.4%25)
-![PowerShell](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23012456&message=PowerShell%EF%B8%B15.6%25)
-![Other](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B18.2%25)
+![C#](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B152.7%25)
+![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B133.6%25)
+![PowerShell](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23012456&message=PowerShell%EF%B8%B15.4%25)
+![Other](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B18%25)
 
 
 

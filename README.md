@@ -17,9 +17,9 @@ Feel free to explore these projects to learn more about my work!
 
 Here's a breakdown of the programming languages I use in my repositories:
 
-![C#](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B155%25)
-![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B132%25)
-![PowerShell](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23012456&message=PowerShell%EF%B8%B15.2%25)
+![C#](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B155.4%25)
+![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B131.7%25)
+![PowerShell](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23012456&message=PowerShell%EF%B8%B15.1%25)
 ![Other](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B17.6%25)
 
 

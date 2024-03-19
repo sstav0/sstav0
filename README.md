@@ -1,7 +1,7 @@
 ![Profile Image](profileImg.jpg)
 
 
-I've been on GitHub for 1 years and during this time, I've made 143 commits across 7 repositories.
+I've been on GitHub for 1 years and during this time, I've made 147 commits across 7 repositories.
 
 ## My Passions and Skills
 
